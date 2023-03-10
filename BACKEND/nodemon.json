@@ -1,0 +1,9 @@
+{
+    "env": {
+        "DB_USER":"JONPRESH",
+        "DB_PASSWORD":"jonpresh",
+        "DB_NAME":"ReactNode",
+        "JWT_KEY": "supersecret_dont_share"
+
+    }
+}
